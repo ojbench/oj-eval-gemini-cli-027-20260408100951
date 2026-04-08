@@ -1,0 +1,12 @@
+build/
+**/*.o
+.vscode/
+.cache/
+.DS_Store
+CMakeFiles/
+CMakeCache.txt
+code
+attached_test
+scope_test
+Makefile
+cmake_install.cmake
